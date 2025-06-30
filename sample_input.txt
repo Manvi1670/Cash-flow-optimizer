@@ -1,0 +1,9 @@
+4
+WorldBank 3 Paytm GooglePay AmazonPay
+SBI 2 Paytm GooglePay
+HDFC 2 GooglePay AmazonPay
+ICICI 1 AmazonPay
+3
+SBI HDFC 1000
+HDFC ICICI 2000
+ICICI SBI 500
